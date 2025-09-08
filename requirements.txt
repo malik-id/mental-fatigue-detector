@@ -1,6 +1,8 @@
 streamlit
-librosa
 scikit-learn
-soundfile
+librosa
 numpy
+pandas
+matplotlib
+soundfile
 joblib
