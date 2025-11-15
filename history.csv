@@ -1,4 +1,28 @@
 timestamp,file_name,prediction,confidence
-2025-09-07 20:19:44,tidak_jenuh1.wav,Tidak Jenuh,0.93
-2025-09-08 13:22:17,VID-20250908-WA0005.mp3,Tidak Jenuh,0.57
-2025-09-08 13:47:38,tidak_jenuh2.wav,Tidak Jenuh,0.93
+2025-09-10 15:48:53,VID-20250908-WA0005.mp3,Non-Fatigue,0.58
+2025-09-10 15:50:10,jenuh1.wav,Fatigue,1.0
+2025-09-10 15:50:50,tidak_jenuh1.wav,Non-Fatigue,1.0
+2025-09-10 15:52:59,teting.wav,Fatigue,0.66
+2025-09-10 16:32:33,testing1.wav,Fatigue,0.51
+2025-09-10 16:34:29,testing3.wav,Fatigue,0.58
+2025-09-10 16:35:31,testing4.wav,Non-Fatigue,0.6
+2025-09-10 16:36:11,testing3.wav,Fatigue,0.58
+2025-09-10 16:36:18,teting.wav,Fatigue,0.66
+2025-09-10 16:41:45,VID-20250908-WA0005.mp3,Non-Fatigue,0.58
+2025-09-10 16:52:05,sword-slash-315218.mp3,Fatigue,0.68
+2025-09-10 16:54:13,testing5.wav,Non-Fatigue,0.65
+2025-09-10 17:06:57,testing5.wav,Non-Fatigue,0.59
+2025-09-10 17:15:00,VID-20250908-WA0005.mp3,Non-Fatigue,0.66
+2025-09-10 17:15:29,jenuh3.wav,Fatigue,1.0
+2025-09-10 17:15:41,jenuh4.wav,Fatigue,1.0
+2025-09-10 17:16:21,tidak_jenuh2.wav,Non-Fatigue,1.0
+2025-09-10 17:19:31,tidak_jenuh1.wav,Non-Fatigue,1.0
+2025-09-10 17:19:41,tidak_jenuh2.wav,Non-Fatigue,0.99
+2025-09-10 17:19:48,tidak_jenuh9.wav,Non-Fatigue,1.0
+2025-09-10 17:19:53,tidak_jenuh10.wav,Non-Fatigue,0.99
+2025-09-10 17:20:02,testing5.wav,Non-Fatigue,0.65
+2025-09-10 17:20:11,teting.wav,Fatigue,0.66
+2025-09-10 17:20:26,VID-20250908-WA0005.mp3,Non-Fatigue,0.58
+2025-09-10 18:50:29,testing5.wav,Non-Fatigue,0.65
+2025-09-10 19:57:35,testing5.wav,Non-Fatigue,0.65
+2025-11-15 15:02:29,testing5.wav,Non-Fatigue,0.65
